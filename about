@@ -1,0 +1,21 @@
+project-name/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── scripts/
+│   ├── scraping.py
+│   ├── cleaning.py
+│   └── visualization.py
+│
+├── outputs/
+│   ├── charts/
+│   └── tables/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
